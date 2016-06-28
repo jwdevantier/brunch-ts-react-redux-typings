@@ -17,7 +17,7 @@ npm install
 
 #Install type definitions
 #See known bugs below if experiencing issues with the 'connect' function from react-redux
-tsd install
+typings install
 
 #Start a local dev server
 npm run start
